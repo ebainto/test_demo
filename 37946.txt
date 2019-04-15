@@ -1,6 +1,4 @@
-{\rtf1}
+update 37946 text file..
 
-Hello world
 
-Sample: Update branch
-123
+test message....
